@@ -1,4 +1,4 @@
-therealaleph/MasterHttpRelayVPN-RUST|android-arm64-v8a|android-armeabi-v7a|android-universal|macos-amd64-app|macos-arm64-app|windows-amd64
+therealaleph/MasterHttpRelayVPN-RUST
 NullLatency/FlowDriver
 SagerNet/sing-box|windows-amd64|darwin-amd64.tar.gz|darwin-arm64|arm64-v8a.apk
 KaringX/karing|arm64-v8a.apk|macos_universal.dmg|windows_x64.exe
