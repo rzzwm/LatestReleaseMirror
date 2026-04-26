@@ -8,7 +8,7 @@ A GitHub Actions pipeline that mirrors only the latest release of multiple sourc
 
 ### 2dust--v2rayNG
 
-🔗 [source](https://github.com/2dust/v2rayNG) – <code><small>2.0.18</small></code>
+🔗 [source](https://github.com/2dust/v2rayNG) – [<code><small>2.0.18</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.0.18)
 
 | File | Size | Download |
 |------|------|----------|
@@ -23,7 +23,7 @@ A GitHub Actions pipeline that mirrors only the latest release of multiple sourc
 
 ### KaringX--karing
 
-🔗 [source](https://github.com/KaringX/karing) – <code><small>v1.2.17.2006</small></code>
+🔗 [source](https://github.com/KaringX/karing) – [<code><small>v1.2.17.2006</small></code>](https://github.com/KaringX/karing/releases/tag/v1.2.17.2006)
 
 | File | Size | Download |
 |------|------|----------|
@@ -37,7 +37,7 @@ A GitHub Actions pipeline that mirrors only the latest release of multiple sourc
 
 ### NullLatency--FlowDriver
 
-🔗 [source](https://github.com/NullLatency/FlowDriver) – <code><small>v0.0.4</small></code>
+🔗 [source](https://github.com/NullLatency/FlowDriver) – [<code><small>v0.0.4</small></code>](https://github.com/NullLatency/FlowDriver/releases/tag/v0.0.4)
 
 | File | Size | Download |
 |------|------|----------|
@@ -52,7 +52,7 @@ A GitHub Actions pipeline that mirrors only the latest release of multiple sourc
 
 ### SagerNet--sing-box
 
-🔗 [source](https://github.com/SagerNet/sing-box) – <code><small>v1.13.11</small></code>
+🔗 [source](https://github.com/SagerNet/sing-box) – [<code><small>v1.13.11</small></code>](https://github.com/SagerNet/sing-box/releases/tag/v1.13.11)
 
 | File | Size | Download |
 |------|------|----------|
@@ -69,7 +69,7 @@ A GitHub Actions pipeline that mirrors only the latest release of multiple sourc
 
 ### anonvector--SlipNet
 
-🔗 [source](https://github.com/anonvector/SlipNet) – <code><small>v2.5.2</small></code>
+🔗 [source](https://github.com/anonvector/SlipNet) – [<code><small>v2.5.2</small></code>](https://github.com/anonvector/SlipNet/releases/tag/v2.5.2)
 
 | File | Size | Download |
 |------|------|----------|
@@ -86,7 +86,7 @@ A GitHub Actions pipeline that mirrors only the latest release of multiple sourc
 
 ### masterking32--MasterDnsVPN
 
-🔗 [source](https://github.com/masterking32/MasterDnsVPN) – <code><small>v2026.04.12.234117-978faee</small></code>
+🔗 [source](https://github.com/masterking32/MasterDnsVPN) – [<code><small>v2026.04.12.234117-978faee</small></code>](https://github.com/masterking32/MasterDnsVPN/releases/tag/v2026.04.12.234117-978faee)
 
 | File | Size | Download |
 |------|------|----------|
@@ -102,7 +102,7 @@ A GitHub Actions pipeline that mirrors only the latest release of multiple sourc
 
 ### net2share--vaydns
 
-🔗 [source](https://github.com/net2share/vaydns) – <code><small>v0.2.8</small></code>
+🔗 [source](https://github.com/net2share/vaydns) – [<code><small>v0.2.8</small></code>](https://github.com/net2share/vaydns/releases/tag/v0.2.8)
 
 | File | Size | Download |
 |------|------|----------|
@@ -119,7 +119,7 @@ A GitHub Actions pipeline that mirrors only the latest release of multiple sourc
 
 ### termux--termux-app
 
-🔗 [source](https://github.com/termux/termux-app) – <code><small>v0.118.3</small></code>
+🔗 [source](https://github.com/termux/termux-app) – [<code><small>v0.118.3</small></code>](https://github.com/termux/termux-app/releases/tag/v0.118.3)
 
 | File | Size | Download |
 |------|------|----------|
@@ -132,7 +132,7 @@ A GitHub Actions pipeline that mirrors only the latest release of multiple sourc
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – <code><small>v1.6.5</small></code>
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.6.5</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.6.5)
 
 | File | Size | Download |
 |------|------|----------|
