@@ -26,7 +26,7 @@ jobs:
         run: |
           # Ensure README.md exists and has markers
           if [ ! -f README.md ]; then
-            printf '# ReleaseCollector\n\n' > README.md
+            printf '# LatestReleaseMirror\n\n' > README.md
             printf 'Automatically syncs the latest release from multiple GitHub repositories.\n\n' >> README.md
             printf '<!-- RELEASES_START -->\n' >> README.md
             printf '<!-- RELEASES_END -->\n' >> README.md
