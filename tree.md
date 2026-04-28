@@ -6,10 +6,10 @@
 │   ├── v2rayNG_2.0.18-fdroid_universal.apk [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18-fdroid_universal.apk) - <small>61.7 MB</small>
 │   ├── v2rayNG_2.0.18_arm64-v8a.apk [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18_arm64-v8a.apk) - <small>26.7 MB</small>
 │   ├── v2rayNG_2.0.18_universal.apk [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18_universal.apk) - <small>61.7 MB</small>
-├── KaringX/karing [https://github.com/KaringX/karing] [v1.2.17.2006]
-│   ├── karing_1.2.17.2006_android_arm64-v8a.apk [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.17.2006_android_arm64-v8a.apk) - <small>52.2 MB</small>
-│   ├── karing_1.2.17.2006_macos_universal.dmg [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.17.2006_macos_universal.dmg) - <small>91.0 MB</small>
-│   ├── karing_1.2.17.2006_windows_x64.exe [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.17.2006_windows_x64.exe) - <small>43.8 MB</small>
+├── KaringX/karing [https://github.com/KaringX/karing] [v1.2.18.2101]
+│   ├── karing_1.2.18.2101_android_arm64-v8a.apk [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2101_android_arm64-v8a.apk) - <small>53.4 MB</small>
+│   ├── karing_1.2.18.2101_macos_universal.dmg [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2101_macos_universal.dmg) - <small>91.0 MB</small>
+│   ├── karing_1.2.18.2101_windows_x64.exe [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2101_windows_x64.exe) - <small>43.6 MB</small>
 ├── NullLatency/FlowDriver [https://github.com/NullLatency/FlowDriver] [v0.0.4]
 │   ├── flow-driver-v0.0.4-darwin-amd64.zip [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/NullLatency/FlowDriver/flow-driver-v0.0.4-darwin-amd64.zip) - <small>9.7 MB</small>
 │   ├── flow-driver-v0.0.4-darwin-arm64.zip [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/NullLatency/FlowDriver/flow-driver-v0.0.4-darwin-arm64.zip) - <small>9.1 MB</small>
