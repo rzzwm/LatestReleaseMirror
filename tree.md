@@ -6,10 +6,10 @@
 │   ├── v2rayNG_2.0.18-fdroid_universal.apk [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18-fdroid_universal.apk) - <small>61.7 MB</small>
 │   ├── v2rayNG_2.0.18_arm64-v8a.apk [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18_arm64-v8a.apk) - <small>26.7 MB</small>
 │   ├── v2rayNG_2.0.18_universal.apk [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18_universal.apk) - <small>61.7 MB</small>
-├── KaringX/karing [https://github.com/KaringX/karing] [v1.2.18.2101]
-│   ├── karing_1.2.18.2101_android_arm64-v8a.apk [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2101_android_arm64-v8a.apk) - <small>53.4 MB</small>
-│   ├── karing_1.2.18.2101_macos_universal.dmg [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2101_macos_universal.dmg) - <small>91.0 MB</small>
-│   ├── karing_1.2.18.2101_windows_x64.exe [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2101_windows_x64.exe) - <small>43.6 MB</small>
+├── KaringX/karing [https://github.com/KaringX/karing] [v1.2.18.2102]
+│   ├── karing_1.2.18.2102_android_arm64-v8a.apk [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_android_arm64-v8a.apk) - <small>53.4 MB</small>
+│   ├── karing_1.2.18.2102_macos_universal.dmg [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_macos_universal.dmg) - <small>91.0 MB</small>
+│   ├── karing_1.2.18.2102_windows_x64.exe [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_windows_x64.exe) - <small>43.6 MB</small>
 ├── NullLatency/FlowDriver [https://github.com/NullLatency/FlowDriver] [v0.0.4]
 │   ├── flow-driver-v0.0.4-darwin-amd64.zip [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/NullLatency/FlowDriver/flow-driver-v0.0.4-darwin-amd64.zip) - <small>9.7 MB</small>
 │   ├── flow-driver-v0.0.4-darwin-arm64.zip [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/NullLatency/FlowDriver/flow-driver-v0.0.4-darwin-arm64.zip) - <small>9.1 MB</small>
@@ -45,12 +45,12 @@
 ├── termux/termux-app [https://github.com/termux/termux-app] [v0.118.3]
 │   ├── termux-app_v0.118.3+github-debug_arm64-v8a.apk [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/termux/termux-app/termux-app_v0.118.3+github-debug_arm64-v8a.apk) - <small>33.4 MB</small>
 │   ├── termux-app_v0.118.3+github-debug_armeabi-v7a.apk [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/termux/termux-app/termux-app_v0.118.3+github-debug_armeabi-v7a.apk) - <small>30.7 MB</small>
-├── therealaleph/MasterHttpRelayVPN-RUST [https://github.com/therealaleph/MasterHttpRelayVPN-RUST] [v1.8.0]
-│   ├── mhrv-rs-android-arm64-v8a-v1.8.0.apk [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.8.0.apk) - <small>18.0 MB</small>
-│   ├── mhrv-rs-android-armeabi-v7a-v1.8.0.apk [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.8.0.apk) - <small>15.7 MB</small>
-│   ├── mhrv-rs-android-universal-v1.8.0.apk [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.8.0.apk) - <small>38.8 MB</small>
-│   ├── mhrv-rs-android-x86-v1.8.0.apk [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.8.0.apk) - <small>18.7 MB</small>
-│   ├── mhrv-rs-android-x86_64-v1.8.0.apk [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.8.0.apk) - <small>18.9 MB</small>
+├── therealaleph/MasterHttpRelayVPN-RUST [https://github.com/therealaleph/MasterHttpRelayVPN-RUST] [v1.8.1]
+│   ├── mhrv-rs-android-arm64-v8a-v1.8.1.apk [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.8.1.apk) - <small>18.0 MB</small>
+│   ├── mhrv-rs-android-armeabi-v7a-v1.8.1.apk [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.8.1.apk) - <small>15.7 MB</small>
+│   ├── mhrv-rs-android-universal-v1.8.1.apk [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.8.1.apk) - <small>38.8 MB</small>
+│   ├── mhrv-rs-android-x86-v1.8.1.apk [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.8.1.apk) - <small>18.7 MB</small>
+│   ├── mhrv-rs-android-x86_64-v1.8.1.apk [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.8.1.apk) - <small>18.9 MB</small>
 │   ├── mhrv-rs-linux-amd64.tar.gz [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) - <small>8.0 MB</small>
 │   ├── mhrv-rs-linux-arm64.tar.gz [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) - <small>1.8 MB</small>
 │   ├── mhrv-rs-linux-musl-amd64.tar.gz [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-amd64.tar.gz) - <small>2.0 MB</small>
