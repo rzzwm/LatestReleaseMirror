@@ -1,7 +1,7 @@
 {
-  "tag": "v1.2.18.2101",
+  "tag": "v1.2.18.2102",
   "status": "stable",
-  "published_at": "2026-04-24T04:27:42Z",
+  "published_at": "2026-04-28T10:15:33Z",
   "filter_pattern": "arm64-v8a.apk|macos_universal.dmg|windows_x64.exe",
-  "updated_at": "2026-04-28T03:39:39Z"
+  "updated_at": "2026-04-28T11:50:42Z"
 }
