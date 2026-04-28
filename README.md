@@ -23,13 +23,13 @@ A GitHub Actions pipeline that mirrors only the latest release of multiple sourc
 
 ### KaringX--karing
 
-🔗 [source](https://github.com/KaringX/karing) – [<code><small>v1.2.17.2006</small></code>](https://github.com/KaringX/karing/releases/tag/v1.2.17.2006)
+🔗 [source](https://github.com/KaringX/karing) – [<code><small>v1.2.18.2101</small></code>](https://github.com/KaringX/karing/releases/tag/v1.2.18.2101)
 
 | File | Size | Download |
 |------|------|----------|
-| `karing_1.2.17.2006_android_arm64-v8a.apk` | 52.2 MB | [⬇️ Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.17.2006_android_arm64-v8a.apk) |
-| `karing_1.2.17.2006_macos_universal.dmg` | 91.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.17.2006_macos_universal.dmg) |
-| `karing_1.2.17.2006_windows_x64.exe` | 43.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.17.2006_windows_x64.exe) |
+| `karing_1.2.18.2101_android_arm64-v8a.apk` | 53.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2101_android_arm64-v8a.apk) |
+| `karing_1.2.18.2101_macos_universal.dmg` | 91.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2101_macos_universal.dmg) |
+| `karing_1.2.18.2101_windows_x64.exe` | 43.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2101_windows_x64.exe) |
 
 ---
 
