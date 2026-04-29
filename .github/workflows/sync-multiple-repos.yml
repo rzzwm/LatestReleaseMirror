@@ -124,7 +124,7 @@ jobs:
           set -e
           TREE_FILE="tree.md"
           RELEASES_DIR="releases"
-          CURRENT_REPO="Ehs6n/LatestReleaseMirror"
+          CURRENT_REPO="rzzwm/LatestReleaseMirror"
           echo "# Releases Structure" > "$TREE_FILE"
           echo "" >> "$TREE_FILE"
           echo '```' >> "$TREE_FILE"
