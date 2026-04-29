@@ -213,7 +213,7 @@ jobs:
                 sm=$(echo "scale=1; $size / 1048576" | bc)
                 s="${sm} MB"
               fi
-              link="https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/$asset_path"
+              link="https://raw.githubusercontent.com/rzzwm/LatestReleaseMirror/main/$asset_path"
               echo "| \`$asset\` | $s | [⬇️ Download]($link) |" >> "$TABLE"
             done
           done
