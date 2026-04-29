@@ -4,3 +4,5 @@ KaringX/karing|arm64-v8a.apk|macos_universal.dmg|windows_x64.exe
 2dust/v2rayNG|arm64-v8a.apk|universal.apk
 anonvector/SlipNet|arm64-v8a.apk|armeabi-v7a.apk|universal.apk
 zen-browser/desktop|installer.exe
+zed-industries/zed|x86_64.exe
+
