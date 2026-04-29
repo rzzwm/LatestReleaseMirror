@@ -152,6 +152,18 @@ A GitHub Actions pipeline that mirrors only the latest release of multiple sourc
 | `mhrv-rs-openwrt-mipsel-softfloat.tar.gz` | 1.9 MB | [⬇️ Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-openwrt-mipsel-softfloat.tar.gz) |
 | `mhrv-rs-raspbian-armhf.tar.gz` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-raspbian-armhf.tar.gz) |
 | `mhrv-rs-windows-amd64.zip` | 6.9 MB | [⬇️ Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
+
+---
+
+<div id="zen-browser--desktop"></div>
+
+### zen-browser--desktop
+
+🔗 [source](https://github.com/zen-browser/desktop) – [<code><small>1.19.10b</small></code>](https://github.com/zen-browser/desktop/releases/tag/1.19.10b)
+
+| File | Size | Download |
+|------|------|----------|
+| `zen.installer.exe` | 89.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/zen-browser/desktop/zen.installer.exe) |
 <!-- RELEASES_END -->
 
 
