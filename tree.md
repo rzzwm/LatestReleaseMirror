@@ -62,4 +62,6 @@
 │   ├── mhrv-rs-openwrt-mipsel-softfloat.tar.gz [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-openwrt-mipsel-softfloat.tar.gz) - <small>1.9 MB</small>
 │   ├── mhrv-rs-raspbian-armhf.tar.gz [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-raspbian-armhf.tar.gz) - <small>1.7 MB</small>
 │   ├── mhrv-rs-windows-amd64.zip [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) - <small>6.9 MB</small>
+├── zen-browser/desktop [https://github.com/zen-browser/desktop] [1.19.10b]
+│   ├── zen.installer.exe [Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/zen-browser/desktop/zen.installer.exe) - <small>89.4 MB</small>
 ```
