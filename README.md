@@ -13,9 +13,7 @@ A GitHub Actions pipeline that mirrors only the latest release of multiple sourc
 | File | Size | Download |
 |------|------|----------|
 | `v2rayNG_2.0.18-fdroid_arm64-v8a.apk` | 26.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18-fdroid_arm64-v8a.apk) |
-| `v2rayNG_2.0.18-fdroid_universal.apk` | 61.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18-fdroid_universal.apk) |
 | `v2rayNG_2.0.18_arm64-v8a.apk` | 26.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18_arm64-v8a.apk) |
-| `v2rayNG_2.0.18_universal.apk` | 61.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18_universal.apk) |
 
 ---
 
@@ -28,7 +26,6 @@ A GitHub Actions pipeline that mirrors only the latest release of multiple sourc
 | File | Size | Download |
 |------|------|----------|
 | `karing_1.2.18.2102_android_arm64-v8a.apk` | 53.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_android_arm64-v8a.apk) |
-| `karing_1.2.18.2102_macos_universal.dmg` | 91.0 MB | [⬇️ Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_macos_universal.dmg) |
 | `karing_1.2.18.2102_windows_x64.exe` | 43.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_windows_x64.exe) |
 
 ---
@@ -43,8 +40,6 @@ A GitHub Actions pipeline that mirrors only the latest release of multiple sourc
 |------|------|----------|
 | `SFA-1.13.11-arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/SagerNet/sing-box/SFA-1.13.11-arm64-v8a.apk) |
 | `SFA-1.13.11-legacy-android-5-arm64-v8a.apk` | 22.2 MB | [⬇️ Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/SagerNet/sing-box/SFA-1.13.11-legacy-android-5-arm64-v8a.apk) |
-| `sing-box-1.13.11-darwin-amd64.tar.gz` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.11-darwin-amd64.tar.gz) |
-| `sing-box-1.13.11-darwin-arm64.tar.gz` | 17.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.11-darwin-arm64.tar.gz) |
 | `sing-box-1.13.11-windows-amd64-legacy-windows-7.zip` | 15.1 MB | [⬇️ Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.11-windows-amd64-legacy-windows-7.zip) |
 | `sing-box-1.13.11-windows-amd64.zip` | 19.4 MB | [⬇️ Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.11-windows-amd64.zip) |
 
@@ -59,11 +54,19 @@ A GitHub Actions pipeline that mirrors only the latest release of multiple sourc
 | File | Size | Download |
 |------|------|----------|
 | `SlipNet-v2.5.3-full-release-arm64-v8a.apk` | 25.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-full-release-arm64-v8a.apk) |
-| `SlipNet-v2.5.3-full-release-armeabi-v7a.apk` | 24.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-full-release-armeabi-v7a.apk) |
-| `SlipNet-v2.5.3-full-release-universal.apk` | 54.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-full-release-universal.apk) |
 | `SlipNet-v2.5.3-lite-release-arm64-v8a.apk` | 10.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-lite-release-arm64-v8a.apk) |
-| `SlipNet-v2.5.3-lite-release-armeabi-v7a.apk` | 10.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-lite-release-armeabi-v7a.apk) |
-| `SlipNet-v2.5.3-lite-release-universal.apk` | 22.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-lite-release-universal.apk) |
+
+---
+
+<div id="zed-industries--zed"></div>
+
+### zed-industries--zed
+
+🔗 [source](https://github.com/zed-industries/zed) – [<code><small>v1.0.0</small></code>](https://github.com/zed-industries/zed/releases/tag/v1.0.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `Zed-x86_64.exe` | 76.8 MB | [⬇️ Download](https://raw.githubusercontent.com/Ehs6n/LatestReleaseMirror/main/releases/zed-industries/zed/Zed-x86_64.exe) |
 
 ---
 
