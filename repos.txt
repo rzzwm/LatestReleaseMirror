@@ -1,8 +1,7 @@
-SagerNet/sing-box|windows-amd64|darwin-amd64.tar.gz|darwin-arm64|arm64-v8a.apk
-KaringX/karing|arm64-v8a.apk|macos_universal.dmg|windows_x64.exe
-2dust/v2rayN|macos-64.dmg|windows-64-desktop.zip
-2dust/v2rayNG|arm64-v8a.apk|universal.apk
-anonvector/SlipNet|arm64-v8a.apk|armeabi-v7a.apk|universal.apk
+SagerNet/sing-box|windows-amd64|arm64-v8a.apk
+KaringX/karing|arm64-v8a.apk|windows_x64.exe
+2dust/v2rayN|windows-64-desktop.zip
+2dust/v2rayNG|arm64-v8a.apk
+anonvector/SlipNet|arm64-v8a.apk
 zen-browser/desktop|installer.exe
 zed-industries/zed|x86_64.exe
-
