@@ -17,6 +17,6 @@
 │   ├── SlipNet-v2.5.3-lite-release-arm64-v8a.apk [Download](https://raw.githubusercontent.com/rzzwm/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-lite-release-arm64-v8a.apk) - <small>10.6 MB</small>
 ├── zed-industries/zed [https://github.com/zed-industries/zed] [v1.0.0]
 │   ├── Zed-x86_64.exe [Download](https://raw.githubusercontent.com/rzzwm/LatestReleaseMirror/main/releases/zed-industries/zed/Zed-x86_64.exe) - <small>76.8 MB</small>
-├── zen-browser/desktop [https://github.com/zen-browser/desktop] [1.19.10b]
-│   ├── zen.installer.exe [Download](https://raw.githubusercontent.com/rzzwm/LatestReleaseMirror/main/releases/zen-browser/desktop/zen.installer.exe) - <small>89.4 MB</small>
+├── zen-browser/desktop [https://github.com/zen-browser/desktop] [1.19.11b]
+│   ├── zen.installer.exe [Download](https://raw.githubusercontent.com/rzzwm/LatestReleaseMirror/main/releases/zen-browser/desktop/zen.installer.exe) - <small>89.3 MB</small>
 ```
