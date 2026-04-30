@@ -74,11 +74,11 @@ A GitHub Actions pipeline that mirrors only the latest release of multiple sourc
 
 ### zen-browser--desktop
 
-🔗 [source](https://github.com/zen-browser/desktop) – [<code><small>1.19.10b</small></code>](https://github.com/zen-browser/desktop/releases/tag/1.19.10b)
+🔗 [source](https://github.com/zen-browser/desktop) – [<code><small>1.19.11b</small></code>](https://github.com/zen-browser/desktop/releases/tag/1.19.11b)
 
 | File | Size | Download |
 |------|------|----------|
-| `zen.installer.exe` | 89.4 MB | [⬇️ Download](https://raw.githubusercontent.com/rzzwm/LatestReleaseMirror/main/releases/zen-browser/desktop/zen.installer.exe) |
+| `zen.installer.exe` | 89.3 MB | [⬇️ Download](https://raw.githubusercontent.com/rzzwm/LatestReleaseMirror/main/releases/zen-browser/desktop/zen.installer.exe) |
 <!-- RELEASES_END -->
 
 
