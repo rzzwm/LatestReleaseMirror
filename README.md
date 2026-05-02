@@ -58,6 +58,18 @@ A GitHub Actions pipeline that mirrors only the latest release of multiple sourc
 
 ---
 
+<div id="sartoopjj--thefeed"></div>
+
+### sartoopjj--thefeed
+
+🔗 [source](https://github.com/sartoopjj/thefeed) – [<code><small>v0.13.5</small></code>](https://github.com/sartoopjj/thefeed/releases/tag/v0.13.5)
+
+| File | Size | Download |
+|------|------|----------|
+| `thefeed-android-v0.13.5-arm64-v8a.apk` | 7.9 MB | [⬇️ Download](https://raw.githubusercontent.com/rzzwm/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-android-v0.13.5-arm64-v8a.apk) |
+
+---
+
 <div id="zed-industries--zed"></div>
 
 ### zed-industries--zed
