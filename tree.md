@@ -15,6 +15,11 @@
 ├── anonvector/SlipNet [https://github.com/anonvector/SlipNet] [v2.5.3]
 │   ├── SlipNet-v2.5.3-full-release-arm64-v8a.apk [Download](https://raw.githubusercontent.com/rzzwm/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-full-release-arm64-v8a.apk) - <small>25.6 MB</small>
 │   ├── SlipNet-v2.5.3-lite-release-arm64-v8a.apk [Download](https://raw.githubusercontent.com/rzzwm/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-lite-release-arm64-v8a.apk) - <small>10.6 MB</small>
+├── readest/readest [https://github.com/readest/readest] [v0.10.6]
+│   ├── Readest_0.10.6_arm64.apk [Download](https://raw.githubusercontent.com/rzzwm/LatestReleaseMirror/main/releases/readest/readest/Readest_0.10.6_arm64.apk) - <small>53.0 MB</small>
+│   ├── Readest_0.10.6_arm64.apk.sig [Download](https://raw.githubusercontent.com/rzzwm/LatestReleaseMirror/main/releases/readest/readest/Readest_0.10.6_arm64.apk.sig) - <small>0 KB</small>
+│   ├── Readest_0.10.6_x64-setup.exe [Download](https://raw.githubusercontent.com/rzzwm/LatestReleaseMirror/main/releases/readest/readest/Readest_0.10.6_x64-setup.exe) - <small>22.3 MB</small>
+│   ├── Readest_0.10.6_x64-setup.exe.sig [Download](https://raw.githubusercontent.com/rzzwm/LatestReleaseMirror/main/releases/readest/readest/Readest_0.10.6_x64-setup.exe.sig) - <small>0 KB</small>
 ├── sartoopjj/thefeed [https://github.com/sartoopjj/thefeed] [v0.14.9]
 │   ├── thefeed-android-v0.14.9-arm64-v8a.apk [Download](https://raw.githubusercontent.com/rzzwm/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-android-v0.14.9-arm64-v8a.apk) - <small>8.0 MB</small>
 ├── zed-industries/zed [https://github.com/zed-industries/zed] [v1.0.1]
