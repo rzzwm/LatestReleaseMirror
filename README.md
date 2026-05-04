@@ -58,21 +58,6 @@ A GitHub Actions pipeline that mirrors only the latest release of multiple sourc
 
 ---
 
-<div id="readest--readest"></div>
-
-### readest--readest
-
-🔗 [source](https://github.com/readest/readest) – [<code><small>v0.10.6</small></code>](https://github.com/readest/readest/releases/tag/v0.10.6)
-
-| File | Size | Download |
-|------|------|----------|
-| `Readest_0.10.6_arm64.apk` | 53.0 MB | [⬇️ Download](https://raw.githubusercontent.com/rzzwm/LatestReleaseMirror/main/releases/readest/readest/Readest_0.10.6_arm64.apk) |
-| `Readest_0.10.6_arm64.apk.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/rzzwm/LatestReleaseMirror/main/releases/readest/readest/Readest_0.10.6_arm64.apk.sig) |
-| `Readest_0.10.6_x64-setup.exe` | 22.3 MB | [⬇️ Download](https://raw.githubusercontent.com/rzzwm/LatestReleaseMirror/main/releases/readest/readest/Readest_0.10.6_x64-setup.exe) |
-| `Readest_0.10.6_x64-setup.exe.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/rzzwm/LatestReleaseMirror/main/releases/readest/readest/Readest_0.10.6_x64-setup.exe.sig) |
-
----
-
 <div id="sartoopjj--thefeed"></div>
 
 ### sartoopjj--thefeed
