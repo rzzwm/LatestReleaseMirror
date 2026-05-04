@@ -15,9 +15,9 @@
 ├── anonvector/SlipNet [https://github.com/anonvector/SlipNet] [v2.5.3]
 │   ├── SlipNet-v2.5.3-full-release-arm64-v8a.apk [Download](https://raw.githubusercontent.com/rzzwm/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-full-release-arm64-v8a.apk) - <small>25.6 MB</small>
 │   ├── SlipNet-v2.5.3-lite-release-arm64-v8a.apk [Download](https://raw.githubusercontent.com/rzzwm/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-lite-release-arm64-v8a.apk) - <small>10.6 MB</small>
-├── sartoopjj/thefeed [https://github.com/sartoopjj/thefeed] [v0.14.6]
-│   ├── thefeed-android-v0.14.6-arm64-v8a.apk [Download](https://raw.githubusercontent.com/rzzwm/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-android-v0.14.6-arm64-v8a.apk) - <small>7.9 MB</small>
-├── zed-industries/zed [https://github.com/zed-industries/zed] [v1.0.0]
+├── sartoopjj/thefeed [https://github.com/sartoopjj/thefeed] [v0.14.8]
+│   ├── thefeed-android-v0.14.8-arm64-v8a.apk [Download](https://raw.githubusercontent.com/rzzwm/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-android-v0.14.8-arm64-v8a.apk) - <small>8.0 MB</small>
+├── zed-industries/zed [https://github.com/zed-industries/zed] [v1.0.1]
 │   ├── Zed-x86_64.exe [Download](https://raw.githubusercontent.com/rzzwm/LatestReleaseMirror/main/releases/zed-industries/zed/Zed-x86_64.exe) - <small>76.8 MB</small>
 ├── zen-browser/desktop [https://github.com/zen-browser/desktop] [1.19.11b]
 │   ├── zen.installer.exe [Download](https://raw.githubusercontent.com/rzzwm/LatestReleaseMirror/main/releases/zen-browser/desktop/zen.installer.exe) - <small>89.3 MB</small>
