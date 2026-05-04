@@ -62,11 +62,11 @@ A GitHub Actions pipeline that mirrors only the latest release of multiple sourc
 
 ### sartoopjj--thefeed
 
-🔗 [source](https://github.com/sartoopjj/thefeed) – [<code><small>v0.14.8</small></code>](https://github.com/sartoopjj/thefeed/releases/tag/v0.14.8)
+🔗 [source](https://github.com/sartoopjj/thefeed) – [<code><small>v0.14.9</small></code>](https://github.com/sartoopjj/thefeed/releases/tag/v0.14.9)
 
 | File | Size | Download |
 |------|------|----------|
-| `thefeed-android-v0.14.8-arm64-v8a.apk` | 8.0 MB | [⬇️ Download](https://raw.githubusercontent.com/rzzwm/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-android-v0.14.8-arm64-v8a.apk) |
+| `thefeed-android-v0.14.9-arm64-v8a.apk` | 8.0 MB | [⬇️ Download](https://raw.githubusercontent.com/rzzwm/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-android-v0.14.9-arm64-v8a.apk) |
 
 ---
 
