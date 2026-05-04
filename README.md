@@ -62,11 +62,11 @@ A GitHub Actions pipeline that mirrors only the latest release of multiple sourc
 
 ### sartoopjj--thefeed
 
-🔗 [source](https://github.com/sartoopjj/thefeed) – [<code><small>v0.14.6</small></code>](https://github.com/sartoopjj/thefeed/releases/tag/v0.14.6)
+🔗 [source](https://github.com/sartoopjj/thefeed) – [<code><small>v0.14.8</small></code>](https://github.com/sartoopjj/thefeed/releases/tag/v0.14.8)
 
 | File | Size | Download |
 |------|------|----------|
-| `thefeed-android-v0.14.6-arm64-v8a.apk` | 7.9 MB | [⬇️ Download](https://raw.githubusercontent.com/rzzwm/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-android-v0.14.6-arm64-v8a.apk) |
+| `thefeed-android-v0.14.8-arm64-v8a.apk` | 8.0 MB | [⬇️ Download](https://raw.githubusercontent.com/rzzwm/LatestReleaseMirror/main/releases/sartoopjj/thefeed/thefeed-android-v0.14.8-arm64-v8a.apk) |
 
 ---
 
@@ -74,7 +74,7 @@ A GitHub Actions pipeline that mirrors only the latest release of multiple sourc
 
 ### zed-industries--zed
 
-🔗 [source](https://github.com/zed-industries/zed) – [<code><small>v1.0.0</small></code>](https://github.com/zed-industries/zed/releases/tag/v1.0.0)
+🔗 [source](https://github.com/zed-industries/zed) – [<code><small>v1.0.1</small></code>](https://github.com/zed-industries/zed/releases/tag/v1.0.1)
 
 | File | Size | Download |
 |------|------|----------|
