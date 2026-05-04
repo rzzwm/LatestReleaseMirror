@@ -6,3 +6,4 @@ anonvector/SlipNet|arm64-v8a.apk
 sartoopjj/thefeed|arm64-v8a.apk
 zen-browser/desktop|installer.exe
 zed-industries/zed|x86_64.exe
+readest/readest|arm64.apk|x64-setup.exe
